@@ -1,5 +1,6 @@
 import About from "@/components/About";
 import Banner from "@/components/Banner";
+import Project from "@/components/Project";
 
 
 export default function Home() {
@@ -7,6 +8,7 @@ export default function Home() {
     <main>
      <Banner></Banner>
      <About></About>
+     <Project></Project>
     </main>
   );
 }

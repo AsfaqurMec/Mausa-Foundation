@@ -12,7 +12,7 @@ const Navbar = () => {
     <li  className="mr-5 nav-link relative"><Link href="/gallery">গ্যালারী</Link></li>
     <li className=" mr-5 nav-link relative"><Link href="/academy">একাডেমি</Link></li>
     <li  className="mr-5 nav-link relative"><Link href="/shop">শপ</Link></li>
-    <li className=" mr-5 nav-link relative"><Link href="/contact"><button className="btn border-none text-white bg-[#49C70D] hover:bg-[#3078ca]">যোগাযোগ করুন</button></Link></li>
+    <li className=" mr-5 "><Link href="/contact"><button className="btn border-none text-white bg-[#49C70D] hover:bg-[#3078ca]">যোগাযোগ করুন</button></Link></li>
     
 </>
 
