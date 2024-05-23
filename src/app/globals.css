@@ -24,3 +24,25 @@
 .nav-link:hover:after {
     scale: 1;
 }
+
+.hero {
+    background-image: url("../../public/Component\ 4.png");
+    background-size: cover;
+}
+
+.gallery {
+    background-image: url("../../public/image\ 6\ \(1\).png");
+    background-size: cover;
+}
+
+.project {
+    background-image: url("../../public/Group\ 7615.png");
+    background-size: contain;
+    background-repeat: repeat;
+}
+
+.service {
+    background-image: url("../../public/Rectangle\ 2922.png");
+    background-size: cover;
+    background-position: bottom;
+}

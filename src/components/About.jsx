@@ -6,8 +6,8 @@ import img3 from '../../public/Vector (10).png'
 const About = () => {
     return (
         <div className='bg-[#2a2a4a] '>
-            <div className='hero min-h-screen  inset-0  opacity-85  bg-[url("https://i.ibb.co/VYpK1hw/Group-281.png")]'>
-            <div className="hero-content flex-col  lg:flex-row justify-center items-center">
+            <div className='hero min-h-screen'>
+            <div className="hero-content flex-col   lg:flex-row justify-center items-center">
                 
                 <div className='lg:w-1/2 relative'>
                 <Image src={im1} alt='photo' className="w-3/4 rounded-sm shadow-2xl border-8 border-[#ffffff42]"></Image>

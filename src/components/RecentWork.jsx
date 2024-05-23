@@ -1,6 +1,6 @@
 import Image from "next/image";
-import img1 from '../../public/Rectangle 97 (1).png'
-import img2 from '../../public/Rectangle 98.png'
+import img1 from '../../public/Rectangle 97 (3).png'
+import img2 from '../../public/Rectangle 97 (4).png'
 import img3 from '../../public/Rectangle 97 (2).png'
 import user from '../../public/user.png'
 import chat from '../../public/ (1).png'

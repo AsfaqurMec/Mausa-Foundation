@@ -8,9 +8,9 @@ import arrow from '../../public/.png'
 const Project = () => {
     return (
         <>
-        <div className="bg-white">
-        <div className='bg-cover mb-10 bg-[url("https://ibb.co/YyC4KGg")]'>
-            <h1 className="text-center mt-20 font-bold text-4xl">চলমান প্রোজেক্ট</h1>
+        <div className="project">
+        <div className='pb-10'>
+            <h1 className="text-center pt-20 font-bold text-4xl">চলমান প্রোজেক্ট</h1>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 pt-20 px-20 pb-10">
 
             <div className="card rounded-sm bg-base-100 ">
